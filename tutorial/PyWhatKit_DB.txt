@@ -1,0 +1,30 @@
+Date: 7/11/2022
+Time: 12:20
+Phone Number: +351917586991
+Message: Hello from pywhatkit
+--------------------
+Date: 7/11/2022
+Time: 12:38
+Phone Number: +351917586991
+Message: Hello from my test pywhatkit, message sent at: 12:39
+--------------------
+Date: 7/11/2022
+Time: 12:43
+Phone Number: +351917586991
+Message: Hello from my test pywhatkit, message sent at: 12:44
+--------------------
+Date: 7/11/2022
+Time: 12:44
+Phone Number: +351917586991
+Message: Hello from my test pywhatkit, message sent at: 12:45
+--------------------
+Date: 7/12/2022
+Time: 14:51
+Phone Number: +351917586991
+Message: Hello from my RPi test pywhatkit, message sent at: 14:52
+--------------------
+Date: 7/12/2022
+Time: 14:53
+Phone Number: +351917586991
+Message: Hello from my RPi test pywhatkit, message sent at: 14:54
+--------------------
